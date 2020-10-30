@@ -16,9 +16,13 @@ jaja hhh
 mujer
 gabo
 
+<<<<<<< HEAD
 
 
 
 
 
 mi
+=======
+yo
+>>>>>>> f4acd5bb7767dd9ed607a12e44f715644d9c97de
